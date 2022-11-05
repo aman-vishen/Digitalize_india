@@ -12,6 +12,7 @@ const Layout = ({ pageTitle, children }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/logo/favicon.ico"/>
+        <meta name="google-site-verification" content="ccshWgoBzF7eQvUMB4QTQBaYo3n94acz1gEIF7WQUn0" />
       </Head>
       
         {children}
