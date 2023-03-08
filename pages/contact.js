@@ -11,7 +11,7 @@ const ContactPage = () => {
     return (
         <Layout pageTitle="Maxdi | Business & Digital Agency">
             <PageHeader title="Contact us" crumbTitle="Contact us"/>
-            <Header heroLogo="/assets/images/logo/logo.svg"
+            <Header heroLogo="/assets/images/logo/digitalizeindia_logo.png"
             headerClass="header__white"
             menuClass="main-menu-3"
             />      

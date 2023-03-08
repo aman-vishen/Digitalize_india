@@ -37,7 +37,7 @@ const Footer = () => {
                         <Col xl={4} lg={4} md={10} sm={10}>
                             <div className="footer__widget wow fadeIn" data-wow-delay=".5s">
                                 <div className="footer__widget-logo">
-                                    <img src="assets/images/logo/Logo-footer.svg" alt="logo"/>
+                                    <img src="assets/images/logo/digitalizeindia_logo.png" alt="logo"/>
                                     <p>Core object made kolor adipisci elit sed diam nonummy nibh euismod tincidunt laoreet dolore magna grinjon.</p>
                                 </div>
                                 <div className="footer__widget-social">
@@ -163,7 +163,7 @@ const Footer = () => {
                             <div className="footer__copyright">
                                 <p>Copyright © 2022
                                     <Link href="https://alimasha.net/">
-                                        <a>Alimasha</a>
+                                        <a>Digitalize India</a>
                                     </Link>
                                 </p>
                             </div>

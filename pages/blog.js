@@ -10,7 +10,7 @@ const BlogPage = () => {
     return (
         <Layout pageTitle="Maxdi | Business & Digital Agency">
             <PageHeader title="Blog" crumbTitle="Blog"/>
-            <Header heroLogo="/assets/images/logo/logo.svg"
+            <Header heroLogo="/assets/images/logo/digitalizeindia_logo.png"
             headerClass="header__white"
             menuClass="main-menu-3"
             />      
