@@ -14,8 +14,8 @@ import Footer from "../components/Footer";
 
 const HomeTwo = () => {
   return (
-    <Layout pageTitle="Maxdi | Business & Digital Agency">
-      <Header heroLogo="/assets/images/logo/Logo-white.svg"
+    <Layout pageTitle="Digitalize India | Business & Digital Agency">
+      <Header heroLogo="/assets/images/logo/digitalizeindia_logo.png"
       headerClass="header__area-2"
       menuClass="main-menu-2"
       sideMenuClass="icon-white"
