@@ -8,7 +8,9 @@ const Layout = ({ pageTitle, children }) => {
         <meta charSet="utf-8"/>
         <meta httpEquiv="x-ua-compatible" content="ie=edge"/>
         <title>{pageTitle}</title>
-        <meta name="description" content=""/>
+        <meta name="description"
+          content="Digitalize India. Web Development, Digital Marketing, content writing, SEO, Digitalize India and E-commerce Solutions."
+          key="desc"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/logo/favicon.ico"/>

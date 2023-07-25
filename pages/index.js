@@ -16,6 +16,7 @@ import Footer from "../components/Footer";
 const HomeOne = () => {
   return (
     <Layout pageTitle="Digitalize India| Business & Digital Agency">
+      
       <Header heroLogo="/assets/images/logo/digitalizeindia_logo.png"
       />      
       <main>

@@ -31,11 +31,11 @@ const About = ({subTitle, titleFirst, titleSecond}) => {
                     </Col>
                     <Col xl={{ span: 5, offset: 1 }} lg={6}>                            
                         <div className="about__content">
-                            <p>Kindling the energy hidden in matter the only home we&apos;ve ever known radio telescope decipherment descended from astronomers rogue. Prime number network of wormholes take root.</p>
+                            <p>At Digitalize India, we are passionate about creating exceptional web experiences that drive success for businesses and organizations worldwide. With a dedicated team of skilled developers, designers, and digital strategists, we bring a customer-centric approach to every project we undertake.</p>
                             <ul>
-                                <li>Sea of Tranquility dispassionate observer dream.</li>
-                                <li>Muse about as a patch of light brain is the seed of intelligence.</li>
-                                <li>The only home we`ve ever known dream of the mind`s eye.</li>
+                                <li>Expertise: With over a decade of experience</li>
+                                <li>Collaborative Approach: We believe in close collaboration</li>
+                                <li>Our developers thrive on creativity</li>
                             </ul>
                         </div>
                         <div className="about__counter-bg d-none d-sm-block">
