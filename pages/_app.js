@@ -5,8 +5,8 @@ import "../public/assets/css/modal.css"
 import "../public/assets/css/mobile-menu.css"
 import "../public/assets/css/default.css"
 import "../public/assets/css/style.css"
-import "../public/robots.txt"
-import "../public/sitemap.xml"
+// import "../public/robots.txt"
+// import "../public/sitemap.xml"
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
